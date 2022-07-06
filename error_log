@@ -1,0 +1,10 @@
+[20-Aug-2019 12:11:12 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home2/i5solu06/public_html/enviarEmail.php on line 19
+[20-Aug-2019 12:13:54 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home2/i5solu06/public_html/enviarEmail.php on line 16
+[20-Aug-2019 12:16:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/i5solu06/public_html/enviarEmail.php on line 16
+[20-Aug-2019 12:16:43 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home2/i5solu06/public_html/enviarEmail.php on line 16
+[20-Aug-2019 12:17:21 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$nome' (T_VARIABLE) in /home2/i5solu06/public_html/enviarEmail.php on line 16
+[20-Aug-2019 12:24:48 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home2/i5solu06/public_html/enviarEmail.php on line 19
+[20-Aug-2019 13:52:57 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$nome' (T_VARIABLE) in /home2/i5solu06/public_html/enviarEmail.php on line 10
+[20-Aug-2019 14:04:01 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '"<br> <strong>Telefone:  </str' (T_CONSTANT_ENCAPSED_STRING) in /home2/i5solu06/public_html/enviarEmail.php on line 10
+[27-Jan-2021 00:13:09 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[27-Jan-2021 11:29:17 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
